@@ -1,0 +1,20 @@
+missing module named resource - imported by posix, D:\Python Project\BookStore App\BookStore.py
+missing module named posix - imported by os, D:\Python Project\BookStore App\BookStore.py
+missing module named _posixsubprocess - imported by subprocess, D:\Python Project\BookStore App\BookStore.py
+missing module named org - imported by pickle, D:\Python Project\BookStore App\BookStore.py
+missing module named readline - imported by cmd, code, pdb, D:\Python Project\BookStore App\BookStore.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, D:\Python Project\BookStore App\BookStore.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, D:\Python Project\BookStore App\BookStore.py
+missing module named _winreg - imported by platform, D:\Python Project\BookStore App\BookStore.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, D:\Python Project\BookStore App\BookStore.py
+missing module named 'java.lang' - imported by platform, D:\Python Project\BookStore App\BookStore.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, D:\Python Project\BookStore App\BookStore.py
+missing module named termios - imported by tty, D:\Python Project\BookStore App\BookStore.py, getpass
+missing module named grp - imported by tarfile, shutil, D:\Python Project\BookStore App\BookStore.py
+missing module named pwd - imported by posixpath, tarfile, shutil, http.server, webbrowser, D:\Python Project\BookStore App\BookStore.py, netrc, getpass
+missing module named ce - imported by os, D:\Python Project\BookStore App\BookStore.py
+missing module named _dummy_threading - imported by dummy_threading, D:\Python Project\BookStore App\BookStore.py
+missing module named 'org.python' - imported by copy, D:\Python Project\BookStore App\BookStore.py, xml.sax
+missing module named ttk - imported by D:\Python Project\BookStore App\BookStore.py, support_app, BookStore
+missing module named Tkinter - imported by D:\Python Project\BookStore App\BookStore.py, support_app, BookStore
